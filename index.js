@@ -15,9 +15,11 @@ const bodyParser = require('body-parser'),
 
 const MONGODB_URI = process.env.MONGODB_URI;
 const store = new MongoDBStore({ uri: MONGODB_URI, collection: 'sessions' });
-mongoose.connect(MONGODB_URI, () => {
+// mongoose.connect(MONGODB_URI, () => {
+// 	console.log('connected to db');
+	mongoose.connect(MONGODB_URI, () => {
 	console.log('connected to db');
-});
+	}).then().error(err => console.log(err));
 
 const app = express(),
 	req = require('express/lib/request');
