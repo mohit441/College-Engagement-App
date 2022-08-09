@@ -1,4 +1,4 @@
-# College-Engagement-App
+# College-Engagement
 ![Screenshot 2022-08-09 234203](https://user-images.githubusercontent.com/87235058/183731441-ab32fc03-04ea-40ad-bed8-cf9ca56d4b9f.png)
 ![Screenshot 2022-08-09 234230](https://user-images.githubusercontent.com/87235058/183731474-32e8daf8-6fbf-4d30-9ca3-ac6c62a678f0.png)
 ![Screenshot 2022-08-09 234307](https://user-images.githubusercontent.com/87235058/183731506-ff4058af-4e17-45eb-a2ee-17c6521b132e.png)
